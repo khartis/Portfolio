@@ -1,8 +1,11 @@
-## Ian Curtis Oduori Porfolio
+## Ian Curtis Oduori Portfolio
 
-# Portfolio
+# Brief Introduction
 
-Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Ian, an IT graduate with a profound interest in technology and dedication to solving complex problems.
+
+## Objective
+My Journey in IT Support has led me to develop a passion for Cyber Security and I am currently seeking a challenging position that leverages my Blue teaming skills and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
