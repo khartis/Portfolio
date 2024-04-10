@@ -1,4 +1,4 @@
-## [Your Name] Porfolio
+## Ian Curtis Oduori Porfolio
 
 # Portfolio
 
