@@ -20,3 +20,9 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --------------------  | -------------------------------------- | ---------------| 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
 
+# Write Ups 
+
+
+|     CTF Room          |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| M45T3R (linux)        |                November 2023           |    <a href="https://medium.com/@Curtiso/m45t3r-cybertalents-ctf-linuxbasics-cybertalent-2f4fef266195">M45TR Room</a>       | 
