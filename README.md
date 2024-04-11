@@ -15,16 +15,13 @@ My Journey in IT Support has led me to develop a passion for Cyber Security and 
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
-
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| Fortinet Network Security Associate |       31/05/23          |   <a href="https://drive.google.com/file/d/11heabMcPrzsFMMKI4bN_TY2jCuqearSg/view?usp=sharing">NSE</a>  | Certified In Cybersecurity (ISC2)   |       15/07/23            | <a href="https://drive.google.com/file/d/14fEgoqNcY97KSdqxdFuYSc1FwTbTtpk0/view?usp=sharing">CC</a>    
 
 # Write Ups 
-
 
 |     CTF Room          |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
