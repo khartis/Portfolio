@@ -7,6 +7,9 @@ Hi, I'm Ian, an IT graduate, budding CTF player and blue teamer with a profound 
 ## Objective
 My Journey in IT Support has led me to develop a passion for CyberSecurity and I am currently seeking a challenging position that leverages my Blue teaming skills and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
+## TryHackMe Profile [https://tryhackme.com/p/IanCurtisOduor]
+Completed 38 rooms: Windows Fundamentals, Linux Fundamentals, introduction to offensive & defensive security, Traffic Analysis, Active Directory, Wi-Fi Hacking i.e
+
 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
