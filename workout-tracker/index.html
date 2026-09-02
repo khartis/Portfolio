@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Road to 21K &mdash; Workout Tracker</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-icon">🏃</span>
+    <div>
+      <h1>Road to 21K</h1>
+      <p class="tagline">Half Marathon &amp; Home Strength Tracker</p>
+    </div>
+  </div>
+  <div id="countdownChip" class="countdown-chip">
+    <span id="countdownNumber">--</span>
+    <span class="countdown-label">days to race</span>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
+  <button class="tab-btn" data-tab="plan">Training Plan</button>
+  <button class="tab-btn" data-tab="strength">Strength Guide</button>
+  <button class="tab-btn" data-tab="history">History</button>
+  <button class="tab-btn" data-tab="settings">Settings</button>
+</nav>
+
+<main id="app">
+
+  <!-- DASHBOARD -->
+  <section id="tab-dashboard" class="tab-panel active">
+    <div class="grid-2">
+      <div class="card hero-card">
+        <h2 id="raceTitle">Half Marathon (21.1km)</h2>
+        <p id="raceDateLabel" class="muted">Race day: --</p>
+        <div class="big-countdown" id="bigCountdown">--</div>
+        <p class="muted" id="phaseLabel">Loading plan…</p>
+      </div>
+      <div class="card">
+        <h3>This Week at a Glance</h3>
+        <div id="weekStats" class="stat-row"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Today &amp; This Week</h3>
+      <div id="dashboardWeek" class="day-list"></div>
+    </div>
+
+    <div class="card">
+      <h3>Totals so far</h3>
+      <div id="totalsRow" class="stat-row"></div>
+    </div>
+  </section>
+
+  <!-- PLAN -->
+  <section id="tab-plan" class="tab-panel">
+    <div class="card">
+      <h3>Full Training Plan</h3>
+      <p class="muted">From this week through race day. Check off workouts as you complete them and log your run details.</p>
+      <div id="planWeeks"></div>
+    </div>
+  </section>
+
+  <!-- STRENGTH GUIDE -->
+  <section id="tab-strength" class="tab-panel">
+    <div class="card">
+      <h3>Home Dumbbell Strength Program</h3>
+      <p class="muted">Two alternating full-body sessions built for runners: single-leg stability, glutes &amp; hamstrings, calves, and core. All you need is one pair of dumbbells.</p>
+    </div>
+    <div id="strengthGuide"></div>
+  </section>
+
+  <!-- HISTORY -->
+  <section id="tab-history" class="tab-panel">
+    <div class="card">
+      <h3>Streak &amp; Totals</h3>
+      <div id="historyStats" class="stat-row"></div>
+    </div>
+    <div class="card">
+      <h3>Completed Log</h3>
+      <div id="historyList" class="day-list"></div>
+    </div>
+  </section>
+
+  <!-- SETTINGS -->
+  <section id="tab-settings" class="tab-panel">
+    <div class="card">
+      <h3>Race Settings</h3>
+      <label class="field">
+        <span>Race name</span>
+        <input type="text" id="raceNameInput" />
+      </label>
+      <label class="field">
+        <span>Race date</span>
+        <input type="date" id="raceDateInput" />
+      </label>
+      <button id="saveSettingsBtn" class="btn primary">Save Settings</button>
+      <p id="settingsSaved" class="muted saved-msg"></p>
+    </div>
+    <div class="card">
+      <h3>Data</h3>
+      <p class="muted">All your workout data is stored locally in this browser only &mdash; nothing is sent anywhere.</p>
+      <button id="resetDataBtn" class="btn danger">Reset All Data</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>Built for the journey to race day. Train smart, run strong. 💪</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
