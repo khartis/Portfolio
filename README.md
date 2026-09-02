@@ -15,7 +15,7 @@ Completed 38 rooms: Windows Fundamentals, Linux Fundamentals, introduction to of
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|                 |                                       |                 |                 |
+| Road to 21K — Workout Tracker | Front-end dev, JS app design | HTML, CSS, JavaScript | <a href="./workout-tracker/index.html">Workout Tracker</a> |
 |                 |                                       |                 |                 |
 
 # Certifications 
